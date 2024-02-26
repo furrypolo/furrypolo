@@ -1,1 +1,1 @@
-Hi! this is the repo for my second semester in college. 
+Hi! this is furrypolo and this is my coding journey.
